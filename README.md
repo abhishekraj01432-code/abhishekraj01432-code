@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abhishek Raj 👋</h1>
+<h1 align="center">Hi there, I'm Abhishek Verma👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;MERN+Stack+Developer;Learning+DSA+%26+System+Design;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
